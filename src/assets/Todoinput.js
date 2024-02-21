@@ -17,7 +17,7 @@ function Todoinput(props) {
             props.addList(inputText)
             setInputText("")
         }
-        }>"+"</button>
+        }>plus</button>
         {/* <div>{inputText}</div> */}
 
     </div>
